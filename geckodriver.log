@@ -1,0 +1,1077 @@
+1570374218310	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.PkS9VPAKhP3y"
+1570374220589	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570374220589	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570374220590	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570374220590	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+** (firefox:11798): WARNING **: 12:03:43.829: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.156: atk-bridge: get_device_events_reply: unknown signature
+
+** (firefox:11798): WARNING **: 12:03:45.158: atk-bridge: get_device_events_reply: unknown signature
+
+** (firefox:11798): WARNING **: 12:03:45.158: atk-bridge: GetRegisteredEvents returned message with unknown signature
+
+** (firefox:11798): WARNING **: 12:03:45.159: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.160: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.160: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.161: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.163: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.208: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.208: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.208: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.208: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.208: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.209: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.209: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.209: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.209: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.210: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.210: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.210: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.210: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.210: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.210: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.210: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.210: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.210: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.210: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.210: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.210: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.210: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.210: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.210: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.210: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.210: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.210: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.210: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.210: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.210: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.210: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.210: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.210: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.210: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.210: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.210: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.210: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.210: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.210: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.210: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.210: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.210: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.210: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.210: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.210: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.210: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.210: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.210: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.210: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.210: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.210: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.210: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.210: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.210: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.211: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.211: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.211: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.211: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.211: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.239: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.239: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.239: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.239: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.239: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.239: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.239: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.239: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.239: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.240: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.240: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.240: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.240: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.240: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.240: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.240: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.240: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.240: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.240: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.240: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.240: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.240: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.240: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.240: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.240: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.240: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.240: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.240: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.240: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.240: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.241: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.241: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.241: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.241: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.241: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.241: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.241: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.241: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.241: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.241: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.241: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.241: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.241: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.241: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.241: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.241: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.241: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.241: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.241: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.241: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.241: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.241: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.241: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.241: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.241: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.241: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.241: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.241: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.241: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.241: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.241: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.241: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.241: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.241: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.241: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.242: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.242: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.242: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.242: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.242: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.242: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.242: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.242: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.242: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.242: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.242: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.242: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.242: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.242: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.242: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.242: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.242: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.242: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.263: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.263: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.263: AT-SPI: Could not obtain desktop path or name
+
+1570374225581	Marionette	INFO	Listening on port 34281
+
+** (firefox:11798): WARNING **: 12:03:45.604: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.655: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.655: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.655: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.655: AT-SPI: Could not obtain desktop path or name
+
+1570374225657	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+** (firefox:11798): WARNING **: 12:03:45.665: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.665: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.666: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.676: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.677: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.677: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.690: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.704: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.712: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.723: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.723: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.745: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.746: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.765: AT-SPI: Could not obtain desktop path or name
+
+
+** (firefox:11798): WARNING **: 12:03:45.766: AT-SPI: Could not obtain desktop path or name
+
+1570458499154	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.N19GbS2tnw0k"
+1570458500273	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570458500274	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570458500274	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570458500274	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:17671): dbind-WARNING **: 11:28:21.786: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+1570458502751	Marionette	INFO	Listening on port 41813
+1570458502767	Marionette	WARN	TLS certificate errors will be ignored for this session
+1570458529581	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.H7KgspZPJaO9"
+1570458529613	Marionette	INFO	Stopped listening on port 41813
+1570458530176	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570458530176	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570458530177	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570458530177	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:17917): dbind-WARNING **: 11:28:51.139: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+1570458532180	Marionette	INFO	Listening on port 40019
+1570458532204	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:18003): dconf-WARNING **: 11:28:55.474: Unable to open /var/lib/flatpak/exports/share/dconf/profile/user: Permissão negada
+1570458605753	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.p4bl6vOSlKxX"
+1570458606299	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570458606300	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570458606300	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570458606300	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:18164): dbind-WARNING **: 11:30:07.274: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+1570458608221	Marionette	INFO	Listening on port 36419
+1570458608263	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:18249): dconf-WARNING **: 11:30:11.397: Unable to open /var/lib/flatpak/exports/share/dconf/profile/user: Permissão negada
+1570458688709	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ImCDfUZoHBv9"
+1570458689257	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570458689257	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570458689258	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570458689258	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:18415): dbind-WARNING **: 11:31:30.227: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+1570458691231	Marionette	INFO	Listening on port 35621
+1570458691319	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:18501): dconf-WARNING **: 11:31:34.710: Unable to open /var/lib/flatpak/exports/share/dconf/profile/user: Permissão negada
+1570458713193	Marionette	INFO	Stopped listening on port 35621
+1570458718439	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.kYgcxMnJevYj"
+1570458718941	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570458718941	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570458718941	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570458718941	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:18668): dbind-WARNING **: 11:32:00.036: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+1570458720989	Marionette	INFO	Listening on port 33153
+1570458721049	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:18758): dconf-WARNING **: 11:32:20.825: Unable to open /var/lib/flatpak/exports/share/dconf/profile/user: Permissão negada
+1570459143161	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.t4gGO5ftyKol"
+1570459143679	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570459143679	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570459143680	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570459143680	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:19173): dbind-WARNING **: 11:39:04.614: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+1570459145696	Marionette	INFO	Listening on port 33967
+1570459145770	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:19258): dconf-WARNING **: 11:39:13.454: Unable to open /var/lib/flatpak/exports/share/dconf/profile/user: Permissão negada
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 19173, Gecko_IOThread] WARNING: pipe error (81): Conexão fechada pela outra ponta: file /build/firefox-u_TOfh/firefox-69.0.1+linuxmint1+tina/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 19173, Gecko_IOThread] WARNING: pipe error (95): Conexão fechada pela outra ponta: file /build/firefox-u_TOfh/firefox-69.0.1+linuxmint1+tina/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1570459283291	Marionette	INFO	Stopped listening on port 33967
+1570459287034	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.MmYGX5z8MvI9"
+1570459287573	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570459287573	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570459287574	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570459287574	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:19446): dbind-WARNING **: 11:41:28.584: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+1570459289513	Marionette	INFO	Listening on port 44611
+1570459289558	Marionette	WARN	TLS certificate errors will be ignored for this session
+1570459649406	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.IlkqMCs9KjL2"
+1570459649972	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570459649972	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570459649972	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570459649972	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:19894): dbind-WARNING **: 11:47:31.029: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+1570459652044	Marionette	INFO	Listening on port 44445
+1570459652117	Marionette	WARN	TLS certificate errors will be ignored for this session
+1570459681376	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.2P9iPPMDcsUK"
+1570459681983	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570459681983	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570459681983	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570459681983	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:20120): dbind-WARNING **: 11:48:03.053: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+1570459684068	Marionette	INFO	Listening on port 41861
+1570459684086	Marionette	WARN	TLS certificate errors will be ignored for this session
+1570459841936	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.BdmH0dDUfB20"
+1570459842450	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570459842451	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570459842451	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570459842451	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:20394): dbind-WARNING **: 11:50:43.623: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+1570459844684	Marionette	INFO	Listening on port 33675
+1570459844748	Marionette	WARN	TLS certificate errors will be ignored for this session
+1570460061243	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.b5mBsRtXXlTU"
+1570460061759	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570460061759	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570460061759	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570460061760	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:20765): dbind-WARNING **: 11:54:22.778: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+1570460063794	Marionette	INFO	Listening on port 40143
+1570460063859	Marionette	WARN	TLS certificate errors will be ignored for this session
+1570460484048	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.FydGSZ0X31EK"
+1570460486679	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570460486679	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570460486679	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570460486679	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Child 20851, Chrome_ChildThread] WARNING: pipe error: Pipe quebrado: file /build/firefox-u_TOfh/firefox-69.0.1+linuxmint1+tina/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 20765, Gecko_IOThread] WARNING: pipe error (72): Conexão fechada pela outra ponta: file /build/firefox-u_TOfh/firefox-69.0.1+linuxmint1+tina/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 20765, Gecko_IOThread] WARNING: pipe error (61): Conexão fechada pela outra ponta: file /build/firefox-u_TOfh/firefox-69.0.1+linuxmint1+tina/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1570460491571	Marionette	INFO	Stopped listening on port 33675
+1570460491618	Marionette	INFO	Stopped listening on port 40143
+1570460491673	Marionette	INFO	Stopped listening on port 41861
+1570460491778	Marionette	INFO	Stopped listening on port 44611
+1570460491891	Marionette	INFO	Stopped listening on port 36419
+1570460491891	Marionette	INFO	Stopped listening on port 40019
+1570460492091	Marionette	INFO	Stopped listening on port 44445
+1570460492210	Marionette	INFO	Stopped listening on port 33153
+1570460496323	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.jZBrXRgbi8rL"
+1570460497486	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570460497486	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570460497486	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570460497487	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:21414): dbind-WARNING **: 12:01:39.098: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+1570460500528	Marionette	INFO	Listening on port 42169
+1570460500542	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 69: Error: Connection closed, pending request to server1.conn0.child1/domnode100, type setNodeValue failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:162:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:49:19
+showTextEditor/done/</<@resource://devtools/client/inspector/markup/views/text-editor.js:101:25
+do@resource://devtools/client/shared/undo.js:72:16
+endBatch@resource://devtools/client/shared/undo.js:83:11
+do@resource://devtools/client/shared/undo.js:96:10
+showTextEditor/done/<@resource://devtools/client/inspector/markup/views/text-editor.js:99:31
+process@resource://gre/modules/Promise-backend.js:961:38
+walkerLoop@resource://gre/modules/Promise-backend.js:845:29
+scheduleWalkerLoop/<@resource://gre/modules/Promise-backend.js:778:14
+
+[Parent 21414, Gecko_IOThread] WARNING: pipe error (81): Conexão fechada pela outra ponta: file /build/firefox-u_TOfh/firefox-69.0.1+linuxmint1+tina/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 21414, Gecko_IOThread] WARNING: pipe error (83): Conexão fechada pela outra ponta: file /build/firefox-u_TOfh/firefox-69.0.1+linuxmint1+tina/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1570460626522	Marionette	INFO	Stopped listening on port 42169
+1570460628496	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.jRuoDxqBNgGI"
+1570460629029	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570460629030	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570460629030	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570460629030	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:21751): dbind-WARNING **: 12:03:50.040: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+1570460630990	Marionette	INFO	Listening on port 40037
+1570460631046	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 21751, Gecko_IOThread] WARNING: pipe error (81): Conexão fechada pela outra ponta: file /build/firefox-u_TOfh/firefox-69.0.1+linuxmint1+tina/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 21751, Gecko_IOThread] WARNING: pipe error (82): Conexão fechada pela outra ponta: file /build/firefox-u_TOfh/firefox-69.0.1+linuxmint1+tina/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1570460696561	Marionette	INFO	Stopped listening on port 40037
+1570460697518	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.YDRgZXFdqjfW"
+1570460698089	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570460698089	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570460698089	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570460698089	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:21985): dbind-WARNING **: 12:04:59.079: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+1570460700139	Marionette	INFO	Listening on port 42647
+1570460700228	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 21985, Gecko_IOThread] WARNING: pipe error (81): Conexão fechada pela outra ponta: file /build/firefox-u_TOfh/firefox-69.0.1+linuxmint1+tina/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 21985, Gecko_IOThread] WARNING: pipe error (82): Conexão fechada pela outra ponta: file /build/firefox-u_TOfh/firefox-69.0.1+linuxmint1+tina/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1570460762693	Marionette	INFO	Stopped listening on port 42647
+1570460765946	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.IZ5n1plERyGt"
+1570460766477	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570460766477	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570460766477	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570460766477	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:22224): dbind-WARNING **: 12:06:07.399: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+1570460768380	Marionette	INFO	Listening on port 38727
+1570460768456	Marionette	WARN	TLS certificate errors will be ignored for this session
+1570460815507	Marionette	INFO	Stopped listening on port 38727
+1570460822761	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.3d5FPI7rAM3a"
+1570460823278	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570460823278	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570460823278	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570460823278	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:22479): dbind-WARNING **: 12:07:04.282: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+1570460825285	Marionette	INFO	Listening on port 36317
+1570460825373	Marionette	WARN	TLS certificate errors will be ignored for this session
+1570460963011	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.nPW2Y4GcScwX"
+1570460963546	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570460963546	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570460963546	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570460963546	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:22789): dbind-WARNING **: 12:09:24.591: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+1570460965614	Marionette	INFO	Listening on port 44961
+1570460965631	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://sardes.ifpi.edu.br"
+console.warn: nsLoginManager: "searchLogins: `formActionOrigin` or `httpRealm` is recommended"
+1570460996245	Marionette	INFO	Stopped listening on port 44961
+1570460999501	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.bUayKNRgqcT7"
+1570461000020	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570461000020	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570461000021	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570461000021	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:23015): dbind-WARNING **: 12:10:01.040: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+1570461002011	Marionette	INFO	Listening on port 45017
+1570461002111	Marionette	WARN	TLS certificate errors will be ignored for this session
+1570461159261	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.B2ipWduxnmOw"
+1570461159774	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570461159774	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570461159774	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570461159774	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:23327): dbind-WARNING **: 12:12:40.733: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+1570461161793	Marionette	INFO	Listening on port 37283
+1570461161869	Marionette	WARN	TLS certificate errors will be ignored for this session
+1570461233008	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.vx9WkLjgCHYE"
+1570461233558	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570461233558	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570461233558	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570461233558	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:23563): dbind-WARNING **: 12:13:54.582: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+1570461235631	Marionette	INFO	Listening on port 46533
+1570461235718	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 22479, Gecko_IOThread] WARNING: pipe error (82): Conexão fechada pela outra ponta: file /build/firefox-u_TOfh/firefox-69.0.1+linuxmint1+tina/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 23327, Gecko_IOThread] WARNING: pipe error (84): Conexão fechada pela outra ponta: file /build/firefox-u_TOfh/firefox-69.0.1+linuxmint1+tina/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 22479, Gecko_IOThread] WARNING: pipe error (81): Conexão fechada pela outra ponta: file /build/firefox-u_TOfh/firefox-69.0.1+linuxmint1+tina/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 23327, Gecko_IOThread] WARNING: pipe error (81): Conexão fechada pela outra ponta: file /build/firefox-u_TOfh/firefox-69.0.1+linuxmint1+tina/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 23563, Gecko_IOThread] WARNING: pipe error (82): Conexão fechada pela outra ponta: file /build/firefox-u_TOfh/firefox-69.0.1+linuxmint1+tina/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 23563, Gecko_IOThread] WARNING: pipe error (81): Conexão fechada pela outra ponta: file /build/firefox-u_TOfh/firefox-69.0.1+linuxmint1+tina/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 23015, Gecko_IOThread] WARNING: pipe error (81): Conexão fechada pela outra ponta: file /build/firefox-u_TOfh/firefox-69.0.1+linuxmint1+tina/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1570461435957	Marionette	INFO	Stopped listening on port 37283
+1570461435965	Marionette	INFO	Stopped listening on port 36317
+1570461436056	Marionette	INFO	Stopped listening on port 46533
+1570461436082	Marionette	INFO	Stopped listening on port 45017
+1570461437889	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.sGJABDhi3kd0"
+1570461438553	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570461438553	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570461438553	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570461438554	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:23905): dbind-WARNING **: 12:17:19.534: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+1570461440591	Marionette	INFO	Listening on port 43471
+1570461440611	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 23905, Gecko_IOThread] WARNING: pipe error (95): Conexão fechada pela outra ponta: file /build/firefox-u_TOfh/firefox-69.0.1+linuxmint1+tina/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 23905, Gecko_IOThread] WARNING: pipe error (81): Conexão fechada pela outra ponta: file /build/firefox-u_TOfh/firefox-69.0.1+linuxmint1+tina/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1570462572732	Marionette	INFO	Stopped listening on port 43471
+1570462582737	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Y6Gk1Rutz1Jk"
+1570462583281	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570462583282	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570462583282	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570462583282	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:25196): dbind-WARNING **: 12:36:24.292: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+1570462585307	Marionette	INFO	Listening on port 34223
+1570462585347	Marionette	WARN	TLS certificate errors will be ignored for this session
+1570462710549	Marionette	INFO	Stopped listening on port 34223
+1570462712695	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.LJYgIrqN1n0S"
+1570462713236	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570462713236	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570462713236	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570462713237	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:25584): dbind-WARNING **: 12:38:34.297: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+1570462715282	Marionette	INFO	Listening on port 39359
+1570462715320	Marionette	WARN	TLS certificate errors will be ignored for this session
+1570462871849	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.T1Kp4tGQ5w8U"
+1570462872379	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570462872379	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570462872380	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570462872380	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:25868): dbind-WARNING **: 12:41:13.460: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+1570462874497	Marionette	INFO	Listening on port 35793
+1570462874559	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 25868, Gecko_IOThread] WARNING: pipe error (81): Conexão fechada pela outra ponta: file /build/firefox-u_TOfh/firefox-69.0.1+linuxmint1+tina/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 25868, Gecko_IOThread] WARNING: pipe error (72): Conexão fechada pela outra ponta: file /build/firefox-u_TOfh/firefox-69.0.1+linuxmint1+tina/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1570462947665	Marionette	INFO	Stopped listening on port 35793
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 25584, Gecko_IOThread] WARNING: pipe error (71): Conexão fechada pela outra ponta: file /build/firefox-u_TOfh/firefox-69.0.1+linuxmint1+tina/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 25584, Gecko_IOThread] WARNING: pipe error (81): Conexão fechada pela outra ponta: file /build/firefox-u_TOfh/firefox-69.0.1+linuxmint1+tina/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1570462957358	Marionette	INFO	Stopped listening on port 39359
+1570462961561	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ZEsUA8DISWFx"
+1570462962084	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570462962085	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570462962085	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570462962085	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:26161): dbind-WARNING **: 12:42:43.102: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+1570462964063	Marionette	INFO	Listening on port 34133
+1570462964080	Marionette	WARN	TLS certificate errors will be ignored for this session
+1570463026576	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.phtgwBB30KMn"
+1570463027050	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570463027051	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570463027051	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570463027051	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:26398): dbind-WARNING **: 12:43:47.983: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+1570463029129	Marionette	INFO	Listening on port 39435
+1570463029185	Marionette	WARN	TLS certificate errors will be ignored for this session
+1570463107049	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.fWp3TfJG2FEj"
+1570463107565	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570463107565	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570463107565	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570463107565	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:26638): dbind-WARNING **: 12:45:08.570: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+1570463109728	Marionette	INFO	Listening on port 40543
+1570463109758	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 26638, Gecko_IOThread] WARNING: pipe error (82): Conexão fechada pela outra ponta: file /build/firefox-u_TOfh/firefox-69.0.1+linuxmint1+tina/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 26398, Gecko_IOThread] WARNING: pipe error (82): Conexão fechada pela outra ponta: file /build/firefox-u_TOfh/firefox-69.0.1+linuxmint1+tina/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 26398, Gecko_IOThread] WARNING: pipe error (81): Conexão fechada pela outra ponta: file /build/firefox-u_TOfh/firefox-69.0.1+linuxmint1+tina/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 26638, Gecko_IOThread] WARNING: pipe error (81): Conexão fechada pela outra ponta: file /build/firefox-u_TOfh/firefox-69.0.1+linuxmint1+tina/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1570463283740	Marionette	INFO	Stopped listening on port 40543
+1570463283766	Marionette	INFO	Stopped listening on port 39435
+1570463283773	Marionette	INFO	Stopped listening on port 34133
+1570463447170	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.cj7lpq9wxRLQ"
+1570463447700	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570463447700	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570463447700	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570463447701	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:27976): dbind-WARNING **: 12:50:48.667: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+1570463449738	Marionette	INFO	Listening on port 37899
+1570463449779	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 27976, Gecko_IOThread] WARNING: pipe error (82): Conexão fechada pela outra ponta: file /build/firefox-u_TOfh/firefox-69.0.1+linuxmint1+tina/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1570463499656	Marionette	INFO	Stopped listening on port 37899
+1570463501437	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.NJIX5RQloqXn"
+1570463501977	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570463501977	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570463501978	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570463501978	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:28200): dbind-WARNING **: 12:51:42.931: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+1570463503920	Marionette	INFO	Listening on port 33733
+1570463503946	Marionette	WARN	TLS certificate errors will be ignored for this session
+1570463895188	Marionette	INFO	Stopped listening on port 33733
+1570463900056	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ojQDGk4FDk7s"
+1570463900614	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570463900615	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570463900615	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570463900615	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:29060): dbind-WARNING **: 12:58:21.648: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+1570463902683	Marionette	INFO	Listening on port 41461
+1570463902765	Marionette	WARN	TLS certificate errors will be ignored for this session
+1570464095748	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.J1NAyv6AwGJy"
+1570464096680	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570464096681	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570464096681	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570464096681	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:29937): dbind-WARNING **: 13:01:37.751: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+1570464098704	Marionette	INFO	Listening on port 46165
+1570464098759	Marionette	WARN	TLS certificate errors will be ignored for this session
+1570464150651	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.RQt8rXRx6xEZ"
+1570464151172	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570464151172	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570464151173	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570464151173	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:30255): dbind-WARNING **: 13:02:32.406: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+1570464153237	Marionette	INFO	Listening on port 35459
+1570464153262	Marionette	WARN	TLS certificate errors will be ignored for this session
+1570464719990	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.F8ZV7Va8LSfJ"
+1570464720510	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570464720510	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570464720511	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570464720511	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:31346): dbind-WARNING **: 13:12:01.439: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+1570464722435	Marionette	INFO	Listening on port 44815
+1570464722500	Marionette	WARN	TLS certificate errors will be ignored for this session
+1570464824664	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.5B5jqbmQEt1l"
+1570464825223	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570464825223	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570464825223	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570464825223	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:31625): dbind-WARNING **: 13:13:46.333: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+1570464827325	Marionette	INFO	Listening on port 33907
+1570464827373	Marionette	WARN	TLS certificate errors will be ignored for this session
+1570464866781	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.VJNQMfAzUg1V"
+1570464867365	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570464867366	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570464867366	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570464867366	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:31875): dbind-WARNING **: 13:14:28.562: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+1570464869289	Marionette	INFO	Listening on port 44849
+1570464869392	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 29937, Gecko_IOThread] WARNING: pipe error (84): Conexão fechada pela outra ponta: file /build/firefox-u_TOfh/firefox-69.0.1+linuxmint1+tina/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 29937, Gecko_IOThread] WARNING: pipe error (81): Conexão fechada pela outra ponta: file /build/firefox-u_TOfh/firefox-69.0.1+linuxmint1+tina/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 31875, Gecko_IOThread] WARNING: pipe error (84): Conexão fechada pela outra ponta: file /build/firefox-u_TOfh/firefox-69.0.1+linuxmint1+tina/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 31875, Gecko_IOThread] WARNING: pipe error (81): Conexão fechada pela outra ponta: file /build/firefox-u_TOfh/firefox-69.0.1+linuxmint1+tina/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 29060, Gecko_IOThread] WARNING: pipe error (95): Conexão fechada pela outra ponta: file /build/firefox-u_TOfh/firefox-69.0.1+linuxmint1+tina/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 29060, Gecko_IOThread] WARNING: pipe error (81): Conexão fechada pela outra ponta: file /build/firefox-u_TOfh/firefox-69.0.1+linuxmint1+tina/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 31346, Gecko_IOThread] WARNING: pipe error (81): Conexão fechada pela outra ponta: file /build/firefox-u_TOfh/firefox-69.0.1+linuxmint1+tina/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 31625, Gecko_IOThread] WARNING: pipe error (81): Conexão fechada pela outra ponta: file /build/firefox-u_TOfh/firefox-69.0.1+linuxmint1+tina/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 31346, Gecko_IOThread] WARNING: pipe error (72): Conexão fechada pela outra ponta: file /build/firefox-u_TOfh/firefox-69.0.1+linuxmint1+tina/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 31625, Gecko_IOThread] WARNING: pipe error (89): Conexão fechada pela outra ponta: file /build/firefox-u_TOfh/firefox-69.0.1+linuxmint1+tina/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1570464923431	Marionette	INFO	Stopped listening on port 35459
+1570464923432	Marionette	INFO	Stopped listening on port 46165
+1570464923501	Marionette	INFO	Stopped listening on port 33907
+1570464923505	Marionette	INFO	Stopped listening on port 41461
+1570464923505	Marionette	INFO	Stopped listening on port 44815
+1570464923519	Marionette	INFO	Stopped listening on port 44849
+1570464927812	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.wcu4IDAqcI9i"
+1570464928446	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570464928446	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570464928446	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570464928446	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:32157): dbind-WARNING **: 13:15:29.421: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+1570464930453	Marionette	INFO	Listening on port 34929
+1570464930521	Marionette	WARN	TLS certificate errors will be ignored for this session
+1570465207608	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.mY2Tx0uNtRKj"
+1570465208110	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570465208110	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570465208110	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570465208110	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:316): dbind-WARNING **: 13:20:09.262: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+1570465210185	Marionette	INFO	Listening on port 38867
+1570465210216	Marionette	WARN	TLS certificate errors will be ignored for this session
+1570465293922	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.slwNLjYJFPz7"
+1570465294449	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570465294450	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570465294450	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570465294450	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:625): dbind-WARNING **: 13:21:35.403: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+1570465296376	Marionette	INFO	Listening on port 35135
+1570465296431	Marionette	WARN	TLS certificate errors will be ignored for this session
+1570465301577	Marionette	INFO	Stopped listening on port 35135
+1570465309020	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.mXtXlVQ13t2M"
+1570465309540	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570465309540	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570465309540	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570465309540	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:868): dbind-WARNING **: 13:21:50.549: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+1570465311582	Marionette	INFO	Listening on port 33215
+1570465311630	Marionette	WARN	TLS certificate errors will be ignored for this session
+1570465395580	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.R5S0SyQiAGgy"
+1570465396099	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570465396099	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570465396099	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570465396099	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:1643): dbind-WARNING **: 13:23:17.058: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+1570465397859	Marionette	INFO	Listening on port 34773
+1570465397908	Marionette	WARN	TLS certificate errors will be ignored for this session
+1570465475901	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.2bWt0HGi7GFt"
+1570465476453	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570465476453	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570465476453	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570465476453	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:1940): dbind-WARNING **: 13:24:37.513: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+1570465478483	Marionette	INFO	Listening on port 36597
+1570465478510	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 1940, Gecko_IOThread] WARNING: pipe error (82): Conexão fechada pela outra ponta: file /build/firefox-u_TOfh/firefox-69.0.1+linuxmint1+tina/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1570465559911	Marionette	INFO	Stopped listening on port 36597
+1570465599794	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.aigYwRpRSPLV"
+1570465600514	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570465600514	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570465600514	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570465600514	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:2307): dbind-WARNING **: 13:26:41.645: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+1570465602531	Marionette	INFO	Listening on port 33815
+1570465602606	Marionette	WARN	TLS certificate errors will be ignored for this session
+1570465635673	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.eylaWjAwKQV1"
+1570465636198	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570465636198	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570465636198	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570465636198	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:2633): dbind-WARNING **: 13:27:17.333: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+1570465638454	Marionette	INFO	Listening on port 33889
+1570465638485	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 316, Gecko_IOThread] WARNING: pipe error (81): Conexão fechada pela outra ponta: file /build/firefox-u_TOfh/firefox-69.0.1+linuxmint1+tina/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 868, Gecko_IOThread] WARNING: pipe error (81): Conexão fechada pela outra ponta: file /build/firefox-u_TOfh/firefox-69.0.1+linuxmint1+tina/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 1643, Gecko_IOThread] WARNING: pipe error (82): Conexão fechada pela outra ponta: file /build/firefox-u_TOfh/firefox-69.0.1+linuxmint1+tina/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 1643, Gecko_IOThread] WARNING: pipe error (81): Conexão fechada pela outra ponta: file /build/firefox-u_TOfh/firefox-69.0.1+linuxmint1+tina/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 2307, Gecko_IOThread] WARNING: pipe error (81): Conexão fechada pela outra ponta: file /build/firefox-u_TOfh/firefox-69.0.1+linuxmint1+tina/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 2633, Gecko_IOThread] WARNING: pipe error (71): Conexão fechada pela outra ponta: file /build/firefox-u_TOfh/firefox-69.0.1+linuxmint1+tina/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 2307, Gecko_IOThread] WARNING: pipe error (82): Conexão fechada pela outra ponta: file /build/firefox-u_TOfh/firefox-69.0.1+linuxmint1+tina/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 2633, Gecko_IOThread] WARNING: pipe error (81): Conexão fechada pela outra ponta: file /build/firefox-u_TOfh/firefox-69.0.1+linuxmint1+tina/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
